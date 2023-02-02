@@ -8,4 +8,4 @@
 图标部分使用 **font-awesome** 制作，版本4.7.0
 
 项目预览：
-![输入图片说明](image.png)
+![输入图片说明](preview.png)
